@@ -8,9 +8,8 @@ A simple C++ console-based banking system that simulates managing customer accou
 - Search customer by account number
 - Persistent data storage in `BankAccounts.txt`
 
-## How to Use
+## Technologies used
 
-1. Clone the repository to your local machine.
-2. Compile the C++ code:
-   ```bash
-   g++ -o banking_system banking_system.cpp
+- C++
+- Basic Input/Output Handeling
+- Control Flow
